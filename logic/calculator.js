@@ -1,3 +1,5 @@
+//IM/2021/053
+//N.W.I.M.prasan
 export const initialState = {
   currentValue: "0", // The value displayed on the calculator
   operator: null, // The current operator (+, -, *, /)

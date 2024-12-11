@@ -1,3 +1,5 @@
+//IM/2021/053
+//N.W.I.M.prasan
 import { Dimensions, StyleSheet, Text, TouchableOpacity } from "react-native";
 
 export default ({ onPress, text, size, theme }) => {
